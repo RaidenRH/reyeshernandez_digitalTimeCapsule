@@ -1,0 +1,48 @@
+*{
+margin: 0%;
+padding: 0;
+background-image: url(../img/Gifstar.gif);background-size:cover;
+background-repeat: no-repeat;
+}
+
+body {background: linear-gradient(351deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(179,186,187,1) 100%);background-position: 0;background-repeat: no-repeat;
+}
+
+
+
+h1 {text-align: center;color: white;font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: linear-gradient(351deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(179,186,187,1) 100%);background-position: bottom;background-repeat: no-repeat;
+}
+
+h2{color: white;font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    padding-left: 30pt;
+    background: linear-gradient(351deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(179,186,187,1) 100%);background-position-x: center;background-repeat: no-repeat;
+}
+
+p{color: white;background:black;background-position: bottom;font-family: "Big Shoulders Display", sans-serif;display: flex;justify-content:space-evenly ;background-origin: padding-box;letter-spacing: 1pt;
+padding-left: 10pt;text-indent: 10pt;padding-bottom: 25pt;
+padding-top: 15pt;background-repeat: no-repeat;line-height: 20pt;
+}
+
+header{color: #ffffff;background: transparent;background-position: bottom;text-decoration: none;background-repeat: no-repeat;
+}
+
+img{background-repeat: no-repeat;background:transparent;}
+
+body header a{background: transparent;font-family: "Bungee", sans-serif;display:inline-block;justify-content: center;align-items: center;padding: 0px 30px;text-decoration: none;color: #000000;background-repeat: no-repeat;}
+
+a:hover {
+    color: #fff;
+    box-shadow: inset 200px 0 0 0 #000000;font-family: "Bungee", sans-serif;background-repeat: no-repeat;
+  }
+
+  .container br p{column-count: 3;}
+
+  footer a {font-family: "Bungee", sans-serif;font-weight:20px;text-decoration: none;padding: left 30pt; background: #000000; text-align: center;color: #ffffff;display:inline-flex;padding-bottom: 0%;padding-top: 0%;background-repeat: no-repeat;justify-content: space-between;}
+
+  section div img{align-items: center}
