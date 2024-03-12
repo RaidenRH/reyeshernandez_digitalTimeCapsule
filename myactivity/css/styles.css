@@ -10,7 +10,7 @@
 
     a:hover {
         color: #fff;
-        box-shadow: inset 200px 0 0 0 #000000;font-family: "Bungee", sans-serif;
+        box-shadow: inset 200px 0 0 0 #000000;font-family: "Bungee", sans-serif;transition: ease-in;
       }
       
       h1 {text-align: center;color: white;font-family: "Bungee", sans-serif;
@@ -31,7 +31,7 @@
 
   section div img{width: 800px;height: 400px;padding-top: 20pt;padding: left 60pt;justify-content: center;}
 
-  div img{padding: left 60pt}
+  div img{padding: left 60pt;}
 
   h2 a{font-family: "Bungee", sans-serif;background: transparent;color: white;justify-content: center;display: inline-block;margin-left: 10pt;text-decoration: none;}
 

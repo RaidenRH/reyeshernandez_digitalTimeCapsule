@@ -41,8 +41,8 @@ a:hover {
     box-shadow: inset 200px 0 0 0 #000000;font-family: "Bungee", sans-serif;background-repeat: no-repeat;
   }
 
-  .container br p{column-count: 3;}
+  .container br p{column-count: 3;background-repeat: no-repeat;text-justify: auto;}
 
   footer a {font-family: "Bungee", sans-serif;font-weight:20px;text-decoration: none;padding: left 30pt; background: #000000; text-align: center;color: #ffffff;display:inline-flex;padding-bottom: 0%;padding-top: 0%;background-repeat: no-repeat;justify-content: space-between;}
 
-  section div img{align-items: center}
+  section div img{align-items: center;background-repeat: no-repeat;}
